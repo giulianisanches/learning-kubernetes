@@ -1,5 +1,6 @@
 # learning-kubernetes
 
-Notes on my kubernetes leraning process with references to all resources i'm using
+Notes on my Kubernetes learning process with references to all resources I'm using:
 
+- [CKA - Certified Kubernetes Administrator](CKA/README.md)
 - [CKAD - Certified Kubernetes Application Developer](CKAD/README.md)
