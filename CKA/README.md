@@ -1,6 +1,6 @@
 # CKA (Certified Kubernetes Administrator) - Quick Study Guide
 
-A concise reference sheet for CKA exam preparation.
+A concise reference sheet for CKA exam preparation, aligned strictly with the [Official Kubernetes Documentation](https://kubernetes.io/docs/home/).
 
 ---
 
