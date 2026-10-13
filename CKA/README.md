@@ -1,6 +1,6 @@
 # CKA (Certified Kubernetes Administrator) - Quick Study Guide
 
-A concise reference sheet for CKA exam preparation, covering core architecture, container runtimes, and ETCD operations.
+A concise reference sheet for CKA exam preparation.
 
 ---
 
@@ -27,7 +27,7 @@ flowchart TD
         kubelet["kubelet (Node Agent)"]
         kubeproxy["kube-proxy (iptables / IPVS)"]
         runtime["Container Runtime (containerd / CRI-O)"]
-        
+
         subgraph PodGroup["Workloads"]
             podA["Pod A (Container)"]
             podB["Pod B (Container)"]
